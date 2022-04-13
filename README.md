@@ -1,6 +1,6 @@
-# sistem-informasi-rumah-sakit
+# sistem-informasi dan-antrian-rumah-sakit
 
-## Instalasi (php 7.x)
+## Instalasi (php)
 1. Download aplikasi ini
 2. Jika menggunakan xampp, simpan di folder htdocs
 3. Extract file yang telah di download.
@@ -8,6 +8,6 @@
 5. Klik ```rs_kdcw``` di ```phpmyadmin``` lalu klik import kemudian pilih file di folder project yang telah Anda extract ```database/rs_kdcw.sql``` lalu klik tombol OK atau GO
 6. Akses di browser ```localhost/nama_folder_project_ini```
 7. Silakan login :
-    > user : adhe <br>
-    > pass : 1234567
+    > user : rohim <br>
+    > pass : 5918
 8. Sekian Dan Terimakasih
