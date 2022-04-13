@@ -1,0 +1,237 @@
+* {
+  margin:0
+}
+
+body {
+  font-family:arial;
+  background-image: url("../../background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+  font-family: Century Gothic;
+}
+
+h2{
+  position: relative;
+  top: 15px;
+  left: 10px;
+  width: 95%;
+  background-color: rgb(242, 181, 62);
+  padding: 6px;
+  color: rgb(250, 254, 252);
+}
+
+a{
+  float: right;
+  text-decoration: none;
+  color: white;
+  position: relative;
+  top: -30px;
+}
+
+.wrap {
+  width:1000px;
+  margin:0 auto;
+}
+
+.header {
+  width:auto;
+  background:rgba(0, 153, 204, 0.67);
+  padding:20px;
+  color:#fff;
+}
+
+.main {
+  width:100%;
+  background:#333;
+}
+
+.headerkecil{
+    width:auto;
+    padding:20px 10px;
+    background:#2b2b2b;
+    color:#fff;
+}
+
+.menubawah{
+  float:left;
+  position: relative;
+  top: 20px;
+}
+
+.content {
+  float:right;
+  width:96%;
+  height: 100%;
+  background:rgba(255, 251, 254, 0.85);
+  padding:2%;
+  min-height:400px;
+  border-radius: 10px;
+}
+
+.contentkecil{
+  float:left;
+  position: relative;
+  top: 40px;
+  left: 60px;
+  color: rgb(65, 65, 65);
+}
+
+.aa{
+  width:140px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background: #2b2b2b;
+  color: rgb(210, 208, 207);
+}
+
+.aa:hover{
+  background: rgb(60, 58, 58);
+  border-radius:130px;
+}
+
+.bb{
+  width:140px;
+  padding-left: 30px;
+  padding-right: 7px;
+  background: #2b2b2b;
+  color: rgb(210, 208, 207);
+}
+
+.bb:hover{
+  background: rgb(60, 58, 58);
+  border-radius:130px;
+}
+
+.cc{
+  width:140px;
+  padding-left: 30px;
+  padding-right: 1px;
+  background: #2b2b2b;
+  color: rgb(210, 208, 207);
+}
+
+.cc:hover{
+  background: rgb(60, 58, 58);
+  border-radius:130px;
+}
+
+.dd{
+  width:140px;
+  padding-left: 30px;
+  background: #2b2b2b;
+  color: rgb(210, 208, 207);
+}
+
+.dd:hover{
+  background: rgb(60, 58, 58);
+  border-radius:130px;
+}
+
+.ee{
+  width:140px;
+  padding-left: 30px;
+  background: #2b2b2b;
+  color: rgb(210, 208, 207);
+}
+
+.ee:hover{
+  background: rgb(60, 58, 58);
+  border-radius:130px;
+}
+
+
+.clear {clear:both}
+
+.footer {
+  width:auto;
+  padding:5px 10px;
+  background:rgb(0, 153, 204, 0.67);
+  color:#fff;
+}
+
+.titik{
+  position: relative;
+  bottom: 10px;
+}
+
+.link a{
+  color: rgb(245, 245, 245);
+  background-color: rgb(10, 114, 181);
+  width: 140px;
+  position: relative;
+  right: 779px;
+  top: 120px;
+  padding-left: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 2px;
+}
+
+.action{
+  color: rgb(89, 89, 89);
+  position: relative;
+  top: 0px;
+}
+
+table{
+  position: relative;
+  left: -47px;
+  top: -47px;
+  font-size: 13px;
+}
+
+.cari{
+  float: right;
+  position: relative;
+  top: 120px;
+  left: 143px;
+}
+
+.aaa{
+  width:170px;
+  padding-left: 10px;
+  padding-top: 6px;
+  padding-bottom: 5px;
+  color: rgb(65, 65, 65);
+  border: 1px solid rgb(206, 205, 209);
+  border-radius: 5px;
+}
+
+.bbb{
+  width:70px;
+  padding-left: 3px;
+  padding-top: 6px;
+  padding-bottom: 5px;
+  color: rgb(247, 247, 247);
+  border: 1px solid rgb(206, 205, 209);
+  border-radius: 5px;
+  background-color: rgb(209, 93, 63)
+}
+
+.bbb:focus{
+  background: rgba(44, 80, 129, 0.51);
+}
+
+.bbb:hover{
+  background: rgb(46, 81, 129);
+}
+
+.page{
+  float: left;
+  color: #4A9EFB;
+  position: relative;
+  left: 390px;
+  top: 30px;
+  width: 30px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.page:hover{
+  background: #6B6A6A;
+}

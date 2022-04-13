@@ -1,0 +1,83 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  padding-top: 70px;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+.content {
+  position: relative;
+  top: 100px;
+  width: 400px;
+  margin: auto;
+  padding: 60px;
+  background-color: rgba(59, 59, 59, 0.47);
+  color: rgb(230, 230, 230);
+  box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.39);
+}
+
+h1 {
+  width: 400px;
+  position: relative;
+  margin: 0%;
+  left: 70px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#tombol {
+  margin-top: 15px;
+}
+
+.tombol {
+  margin-bottom: 5px;
+  width: 400px;
+  height: 45px;
+  left: 70px;
+  border-radius: 8px;
+  padding: 0px;
+  background: rgb(30, 117, 196);
+}
+
+.register {
+  color: rgb(238, 238, 238);
+  font-size: 13px;
+}
+
+.inputan {
+  width: 400px;
+  height: 45px;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.inputan:focus {
+  box-shadow: 0 0 5px 2px rgb(71, 146, 223)
+}
+
+.tombol:focus {
+  background: rgb(46, 81, 129);
+}
+
+.tombol:hover {
+  background: rgb(46, 81, 129);
+}
+
+.content .tombol {
+  font-size: 20px;
+  color: white;
+}
+
+.content input[type="text"],
+.content input[type="password"] {
+  font-size: 15px;
+}
